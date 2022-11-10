@@ -59,4 +59,5 @@
 - ***label***: 标签, 用于对pod进行分类, 同一类pod会拥有相同的标签
 - ***NameSpace***: 命名空间, 用来隔离pod的运行环境
 
+
 ![Img](../image/WechatIMG134.jpeg)
